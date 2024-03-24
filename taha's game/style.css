@@ -1,0 +1,50 @@
+body {
+  background-image: url("th\ \(5\).jpeg");
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 75vh;
+  
+}
+
+h1 {
+  color: rgb(217, 255, 0);
+    font-weight: bold;
+    box-shadow: 5px 5px 10px rgb(8, 83, 8);
+    border-radius: 87312645px;
+}
+
+#message-el {
+    font-style: italic;
+}
+.container{
+  background-image: url("./th\ \(8\).jpeg");
+  background-size: cover;
+  padding:60px 150px;
+  border: 5px solid rgb(217, 255, 0) ;
+  text-align: center;
+  box-shadow: 16px 12px 13px rgb(3, 37, 4);
+  border-radius: 823334px;
+  
+}
+p{
+  color: rgb(217, 255, 0);
+ 
+}
+hr{
+border: 3px solid rgb(10, 51, 10);
+box-shadow: 16px 12px 13px rgb(3, 37, 4);
+
+}
+button {
+  color: rgb(217, 255, 0);
+  font-size: 20px;
+  background-color: rgba(8, 27, 11, 0.438);
+  border:3px solid  rgba(0, 0, 0, 0.438);
+border-radius: 7px;
+font-size: 25px;
+padding: 6px;
+}
